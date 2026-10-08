@@ -1,0 +1,3 @@
+model_name,accuracy,macro_f1,precision_macro,recall_macro,train_time_s,notes
+TF-IDF + LogReg,0.8902,0.8308,0.8361,0.829,61.8,"C=20, 1-2 grams, 100k features, title+text"
+TF-IDF + LogReg,0.8902,0.8308,0.8361,0.829,61.8,"C=20, 1-2 grams, 100k features, title+text"
