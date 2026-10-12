@@ -6,7 +6,6 @@ Classifying Kinyarwanda news articles into 14 topics with three models (TF-IDF +
 |---|---|
 | Live app | https://kinyarwanda-news-classification-hhzv4dtv6xbesu9vkfgckr.streamlit.app/ |
 | Fine-tuned model (Hugging Face) | https://huggingface.co/lauraCeline/kinyarwanda-news-classification |
-| Code and results (this repository) | https://github.com/62Laura/kinyarwanda-news-classification |
 
 ## 1. Problem
 
