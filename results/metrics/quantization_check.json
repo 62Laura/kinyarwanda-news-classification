@@ -1,0 +1,10 @@
+{
+  "fp32_size_mb": 266.4,
+  "int8_size_mb": 67.0,
+  "sample_size": 500,
+  "torch_accuracy": 0.864,
+  "torch_macro_f1": 0.8071,
+  "onnx_int8_accuracy": 0.862,
+  "onnx_int8_macro_f1": 0.8034,
+  "prediction_agreement": 0.992
+}
