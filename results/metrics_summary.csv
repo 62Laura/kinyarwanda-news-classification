@@ -1,3 +1,4 @@
 model_name,accuracy,macro_f1,precision_macro,recall_macro,train_time_s,notes
 TF-IDF + LogReg,0.8902,0.8308,0.8361,0.829,61.8,"C=20, 1-2 grams, 100k features, title+text"
 TF-IDF + LogReg,0.8902,0.8308,0.8361,0.829,61.8,"C=20, 1-2 grams, 100k features, title+text"
+BiLSTM,0.8366,0.7299,0.7068,0.7812,213.2,"emb200, hidden128 bi, max_len=385, vocab=50000, best_epoch=12, 10,345,102 params"
