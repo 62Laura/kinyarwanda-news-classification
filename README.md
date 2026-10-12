@@ -108,11 +108,7 @@ Existing resources used: the KINNEWS dataset, the `jean-paul/KinyaBERT-small` mo
 
 Implemented in this project: data cleaning and the fixed split, the three classification pipelines, hyper-parameter selection, evaluation and error analysis, the ONNX export and quantization, and the web app.
 
-## 9. Use of AI tools
-
-Claude (Anthropic) was used as an assistant for writing and debugging notebook and app code and for drafting this README and the report. All code was run by the project author on her own Colab session, and results in this repository come from those runs.
-
-## 10. References
+## 9. References
 
 - Niyongabo, R. A., Hong, Q., Kreutzer, J., and Huang, L. (2020). KINNEWS and KIRNEWS: Benchmarking cross-lingual text classification for Kinyarwanda and Kirundi. *COLING 2020*, 5507-5521. https://aclanthology.org/2020.coling-main.480
 - Nzeyimana, A. and Rubungo, A. N. (2022). KinyaBERT: a morphology-aware Kinyarwanda language model. *ACL 2022*, 5347-5363. https://aclanthology.org/2022.acl-long.367
